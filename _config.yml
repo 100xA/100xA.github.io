@@ -2,7 +2,7 @@
 title: Jan Biernacki # site title
 description: >- # site description
  I am a 21 year old Software Developer from Germany, mostly working with Flutter. Feel free to Check out my projects!
-    <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    <a href="https://github.com/100xA" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
 timezone: Europe/Berlin # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -14,7 +14,7 @@ author:
   name: Jan Biernacki # author name
   bio: >- # tell to the world
     I am a 21 year old Software Developer from Germany, mostly working with Flutter. Feel free to Check out my projects!
-    <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    <a href="https://github.com/100xA/ target="_blank" rel="noopener">@github</a>.
   username: 100xA # general username
   github: 100xA # github username
   email: biernackijan4@gmail.com # email adress
