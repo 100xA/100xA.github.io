@@ -1,13 +1,15 @@
 ---
-title: resume
+title: Resume
 permalink: /resume/
 layout: page
 comments: false
 ---
  
-Hi, my name is Jan Biernacki. I am a 21 year old Software Developer from Germany. I have 4 years of experience in **Android/Cross-Plattform App-Development**: From planning, prototyping, interface design and backend design to full-stack development.
+Hi, my name is Jan Biernacki. I am a 21 year old Software Developer from Germany. I have 4 years of experience in **Android/Cross-Plattform App-Development**, working mostly for/with startups: From planning, prototyping, interface design and backend design to full-stack development.
 
-## My main interests are:
+> I personally **strongly** believe in the importance of open source software. Being an almost exlusively self-taught Developer, I prefer and **mostly use open source software to accomplish my daily tasks**. This belief also led me to discover the **unix environment**, where I set up personal projects. 
+
+## Main Interests
 * Cross-Plattform App-Development
 * Machine Learning
 * History
@@ -22,9 +24,13 @@ Hi, my name is Jan Biernacki. I am a 21 year old Software Developer from Germany
 
 
 ## Skillset
+* **Programming Languages**: Java/Java.dart, Javascript, SQL
+* **Frameworks**: Flutter, React.js
+* **Other**: CSS/HTML, Figma, Codemagic (DevOps), Ubuntu/Arch Linux, Microsoft Azure
+* **Fluent** in German, English, Polish 
 
 
-
-**If you want to contact me✨**
-Email: biernackijan4@gmail.com
+## **Interested**
+* <a href="mailto:biernackijan4@gmail.com">Email</a>
+* <a href="https://www.linkedin.com/in/jan-biernacki-934221200/">LinkedIn</a>
 
